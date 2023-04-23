@@ -23,3 +23,4 @@ for b in range(50):
     data.append(count)
 pyp.plot(data2,data,marker="o")
 pyp.show()
+#素数の割合は反比例の関数に近似して基本的に減少していく
